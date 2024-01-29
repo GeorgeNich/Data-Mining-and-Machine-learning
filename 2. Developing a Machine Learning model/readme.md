@@ -21,5 +21,4 @@ Welcome to the 'Developing a Machine Learning Model' section of our Data Mining 
 
 ## Additional Information
 - This section builds upon the initial data cleaning and visualization work, applying advanced machine learning techniques to derive meaningful predictions.
-- If you have any questions or require further details, please contact [Your Name] at [Your Email].
 

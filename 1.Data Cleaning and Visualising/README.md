@@ -19,6 +19,3 @@ This directory contains the materials for the 'Data Cleaning and Visualization' 
 - Refer to the [Pima_Indian_Diabetes_Analysis_Data_Cleansing_and_Predictive_Modeling.pdf](./Pima_Indian_Diabetes_Analysis_Data_Cleansing_and_Predictive_Modeling.pdf) for an in-depth understanding of the methodologies and findings.
 - Analyze or replicate the study using the [diabetes.csv](./diabetes.csv) file.
 
-## Additional Information
-- The dataset and analyses conducted here lay the groundwork for subsequent machine learning modeling.
-- For any queries or further information, feel free to contact [Your Name] at [Your Email].
